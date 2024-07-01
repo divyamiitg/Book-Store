@@ -1,23 +1,8 @@
-Step 1:- copy the github repo url
+Book Store App 
 
-Step 2:- open cmd terminal 
-
-Step3:- Git clone repo_url
-
-Step 5:- open the folder
-               unzip frontend 
-               Unzip backend
-
-Step6:- Go back to main folder. 
-
-Step7:- right click open in terminal 
-
-Step 8:- code .
-
-Step9:- move to frontend
-            npm install 
-            npm run dev
-
-Step10:- move backend
-          npm install 
-          npm start
+Tech Stack used
+𝗠𝗼𝗻𝗴𝗼𝗗𝗕 :- It's a NoSQL DB.
+𝗘𝘅𝗽𝗿𝗲𝘀𝘀 𝗝𝘀 :- It's a Node Js Framework(Backend)
+𝗥𝗲𝗮𝗰𝘁 𝗝𝘀 :- It's a JavaScript Library(Frontend)
+𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱 𝗖𝗦𝗦 :- UI Design
+𝗡𝗼𝗱𝗲 𝗝𝘀:-  Help us to run Js on Server-side.
